@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "292052491192",
+    "firebase_url": "https://mapver1-b71bb-default-rtdb.firebaseio.com",
+    "project_id": "mapver1-b71bb",
+    "storage_bucket": "mapver1-b71bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292052491192:android:5ca9f361ef00a5f2970d4d",
+        "android_client_info": {
+          "package_name": "com.example.googlemapex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292052491192-13rb9vmqdevt9bdel3jv1ccj1gde5nhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz7gxmJwvONbDF0kMIuSK6LFbiAWgGukQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292052491192-13rb9vmqdevt9bdel3jv1ccj1gde5nhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292052491192:android:6cbaab58c3b785b0970d4d",
+        "android_client_info": {
+          "package_name": "com.example.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292052491192-13rb9vmqdevt9bdel3jv1ccj1gde5nhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz7gxmJwvONbDF0kMIuSK6LFbiAWgGukQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292052491192-13rb9vmqdevt9bdel3jv1ccj1gde5nhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292052491192:android:7179b840190301ec970d4d",
+        "android_client_info": {
+          "package_name": "com.example.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292052491192-13rb9vmqdevt9bdel3jv1ccj1gde5nhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz7gxmJwvONbDF0kMIuSK6LFbiAWgGukQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292052491192-13rb9vmqdevt9bdel3jv1ccj1gde5nhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
